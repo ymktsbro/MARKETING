@@ -1,0 +1,19 @@
+/*Adjustments*/
+.W2L-Fields-Wrapper .sapCpLayout .sapCpInputWidget .sapCpDropDown {
+	width: 100%;
+	min-width: unset;
+	height: 38 px;
+}
+
+.W2L-Fields-Wrapper .sapCpLayout .sapCpInputWidget .sapCpInput {
+	width: 100%;
+}
+
+.W2L-Fields-Wrapper .sapCpLayout .sapCpNoteWidget .sapCpTextArea {
+	width: 100%;
+}
+
+.sapCpButton {
+	color: white;
+	background-color: grey;
+}
