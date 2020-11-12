@@ -1,0 +1,5 @@
+div.customquestion {
+  maxlength: "500";
+  rows: "10";
+  cols: "75";
+}
